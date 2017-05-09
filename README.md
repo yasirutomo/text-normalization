@@ -14,3 +14,5 @@ This is a text normalization or preprocessing for social media data. Sample text
 * Spelling check (correct spell is in /resources/spellcheck.txt, change the data in it for better cheker and other language)
 * Reapeted word that has meaning ('malam malam' -> 'malam-malam', this is optional if needed, earase if the case not need this)
 * Emoticon normalization (': - )' -> ':-)')
+
+In addition, stemming process for Indonesian language can be done using Sastrawi Package (https://pypi.python.org/pypi/Sastrawi/1.0.1).
