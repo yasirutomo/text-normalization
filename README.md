@@ -1,6 +1,6 @@
 # Text Normalization / Preprocessing Module
 
-This is a text normalization or preprocessing for social media data. Sample text in this project is tweets in Indonesian Language, however it is possible to process other language. This project is build using Python 3.4.
+This is a text normalization or preprocessing for social media data. Sample text in this project are tweets in Indonesian Language, however it is possible to process other language. This project is build using Python 3.4.
 
 ## What is inside
 
